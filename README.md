@@ -25,7 +25,7 @@
 ## 상세
 
 ### ① 1차 데이터 수집
-* 자세한 내용과 코드는 [GitHub Link](https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/blob/6d648551ca2cc57fa31cabb69ba15bdf195ea176/data_collection_cleaning.ipynb)를 참고하여 주시기 바랍니다.
+* 자세한 내용과 코드는 <a href = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/blob/6d648551ca2cc57fa31cabb69ba15bdf195ea176/data_collection_cleaning.ipynb' target = '_blank'>GitHub Link</a>를 참고하여 주시기 바랍니다.
 * 한국보건산업진흥원 의료기관 회계정보공시의 전국 (상급)종합병원 손익계산서 데이터를 크롤링함
 * 2022 회계연도의 데이터는 아직 공개되지 않은 상태로, 2019 - 2021 회계연도의 자료를 이용하고자 함
 
