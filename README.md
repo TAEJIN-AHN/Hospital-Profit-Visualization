@@ -105,7 +105,7 @@
        </tr>
        <tr>
         <td align ='center'>고려대학교 안암병원</td>
-        <td align ='center'>서울특별시 성북구 인촌로 73/td>
+        <td align ='center'>서울특별시 성북구 인촌로 73</td>
         <td align ='center'>서울특별시 성북구 고려대로 73</td>
        </tr>
        <tr>
