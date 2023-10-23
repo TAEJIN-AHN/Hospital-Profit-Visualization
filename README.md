@@ -155,4 +155,4 @@
 ---
 ### ④ 향후 진행 계획
 
-<p align = 'center'><img src = ''></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/ae220ef7-9c43-4a7a-bc83-418863aa10e3' width = 70%></p>
