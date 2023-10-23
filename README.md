@@ -89,4 +89,28 @@
         <td align ='center'>경기도 용인시 처인구 금학로 225</td>
         <td align ='center'>경기도 용인시 기흥구 동백죽전대로 363</td>
        </tr>
-      </table>      
+      </table>
+      
+    * **위도 및 경도가 제대로 수집되지 않는 잘못된 주소 수정**
+      <table>
+       <tr>
+        <th align ='center'>기관명</th>
+        <th align ='center'>주소(변경 전)</th>
+        <th align ='center'>주소(변경 후)</th>
+       </tr>
+       <tr>
+        <td align ='center'>울산대학교병원</td>
+        <td align ='center'>울산광역시 동구 방어진순환도로 877</td>
+        <td align ='center'>울산광역시 동구 대학병원로 25</td>
+       </tr>
+       <tr>
+        <td align ='center'>고려대학교 안암병원</td>
+        <td align ='center'>서울특별시 성북구 인촌로 73/td>
+        <td align ='center'>서울특별시 성북구 고려대로 73</td>
+       </tr>
+       <tr>
+        <td align ='center'>현대유비스병원</td>
+        <td align ='center'>인천광역시 남구 독배로 503</td>
+        <td align ='center'>인천광역시 미추홀구 독배로 503</td>
+       </tr>
+      </table>
