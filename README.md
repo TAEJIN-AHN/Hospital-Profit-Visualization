@@ -124,7 +124,7 @@
 
 ### ③ 1차 대시보드 제작
 
-<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/7cf21a0a-b9ef-437a-975f-28a21dae37d8'></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/b37a909f-a5fd-430d-8e15-42d8bdde5d90'></p>
 
 * 대시보드는 [Tableau Public Link](https://public.tableau.com/app/profile/.39367464/viz/_16962095774100/HospitalFinancialAnalysis)를 통해서도 확인하실 수 있습니다.
 * 대시보드는 각 항목별로 아래와 같은 정보를 제공함
