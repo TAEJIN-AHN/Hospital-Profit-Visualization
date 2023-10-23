@@ -16,4 +16,4 @@
 * 특히 최근 수익이 악화된 병원의 경우, 대시보드를 통해 그 원인까지 파악할 수 있게 하고 싶습니다.
 
 ### ④ 주요 액션 및 향후 진행 방향
-<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/1c06c124-c7c6-4793-b0b0-a5f6e2c7a9b4' width = 60%></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/1c06c124-c7c6-4793-b0b0-a5f6e2c7a9b4' width = 50%></p>
