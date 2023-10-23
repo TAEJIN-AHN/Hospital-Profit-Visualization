@@ -125,4 +125,11 @@
 ### ③ 1차 대시보드 제작
 
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/7cf21a0a-b9ef-437a-975f-28a21dae37d8'></p>
-* 대시보드는 Tableau
+
+* 대시보드는 [Tableau Public Link](https://public.tableau.com/app/profile/.39367464/viz/_16962095774100/HospitalFinancialAnalysis)를 통해서도 확인하실 수 있습니다.
+* 대시보드는 각 항목별로 아래와 같은 정보를 제공함
+  1. 지역(시도, 시군구) 내 병원 간 의료이익 비교
+     ```
+     상단의 시도, 시군구를 선택했을 때, 선택 지역 병원의 의료이익을 원의 색상, 크기로 비교할 수 있음
+     예) 경기도 고양시에는 6곳의 (상급)종합병원이 있고 인제대학교 일산백병원의 의료이익이 가장 큼
+     ``` 
