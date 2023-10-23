@@ -123,4 +123,6 @@
     * (예제) 수정 후 : Ⅳ.의료외수익 - **Ⅳ-1.의료부대수익**
 
 ### ③ 1차 대시보드 제작
+
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/7cf21a0a-b9ef-437a-975f-28a21dae37d8'></p>
 * 대시보드는 Tableau
