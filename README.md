@@ -25,7 +25,7 @@
 ## 상세
 
 ### ① 1차 데이터 수집
-* 자세한 내용과 코드는 <a href = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/blob/6d648551ca2cc57fa31cabb69ba15bdf195ea176/data_collection_cleaning.ipynb' target = '_blank'>GitHub Link</a>를 참고하여 주시기 바랍니다.
+* 자세한 내용과 코드는 [GitHub Link](https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/blob/6d648551ca2cc57fa31cabb69ba15bdf195ea176/data_collection_cleaning.ipynb)를 참고하여 주시기 바랍니다.
 * 한국보건산업진흥원 의료기관 회계정보공시의 전국 (상급)종합병원 손익계산서 데이터를 크롤링함
 * 2022 회계연도의 데이터는 아직 공개되지 않은 상태로, 2019 - 2021 회계연도의 자료를 이용하고자 함
 
@@ -38,4 +38,55 @@
     본 프로젝트에서는 동일 지역 내 병원 간 의료이익을 비교하는 지도 시각화를 수행하고자 함
     수정한 주소 정보와 공간산업진흥원의 Geocoder API를 활용, 위도 및 경도 데이터를 추가 수집함
     ```
-    * 
+    * **동일한 주소의 기관명이 연도별로 다른 경우 최근 기준으로 통일**
+      ```
+      예) 경상남도 진주시 강남로 79에 위치한 상급종합병원의 이름을 아래와 같이 변경
+      ```
+      <table>
+       <tr>
+        <th align ='center'>연도</th>
+        <th align ='center'>기관명(변경 전)</th>
+        <th align ='center'>기관명(변경 후)</th>
+       </tr>
+       <tr>
+        <td align ='center'>2021</td>
+        <td align ='center'>경상국립대학교병원</td>
+        <td align ='center'>좌동</td>
+       </tr>
+       <tr>
+        <td align ='center'>2020</td>
+        <td align ='center'>경상대학교병원</td>
+        <td align ='center'>경상국립대학교병원</td>
+       </tr>
+       <tr>
+        <td align ='center'>2019</td>
+        <td align ='center'>경상대학교병원</td>
+        <td align ='center'>경상국립대학교병원</td>
+       </tr>
+      </table>
+    * **동일한 기관의 주소가 연도별로 다른 경우 최근 기준으로 통일**
+      ```
+      예) 연세대학교 의과대학 용인세브란스병원의 주소 정보를 최신 기준으로 통일
+      ```
+      <table>
+       <tr>
+        <th align ='center'>연도</th>
+        <th align ='center'>주소(변경 전)</th>
+        <th align ='center'>주소(변경 후)</th>
+       </tr>
+       <tr>
+        <td align ='center'>2021</td>
+        <td align ='center'>경기도 용인시 기흥구 동백죽전대로 363</td>
+        <td align ='center'>좌동</td>
+       </tr>
+       <tr>
+        <td align ='center'>2020</td>
+        <td align ='center'>경기도 용인시 기흥구 동백죽전대로 363</td>
+        <td align ='center'>좌동</td>
+       </tr>
+       <tr>
+        <td align ='center'>2019</td>
+        <td align ='center'>경기도 용인시 처인구 금학로 225</td>
+        <td align ='center'>경기도 용인시 기흥구 동백죽전대로 363</td>
+       </tr>
+      </table>      
