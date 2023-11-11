@@ -1,4 +1,4 @@
-# 국내 (상급)종합병원 경영성과 시각화
+# 국내 (상급)종합병원 경영성과 대시보드 제작
 
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/assets/125945387/9c8b3a72-bbaf-4ef1-8538-22fab640a523' width = 80%></p>
 
