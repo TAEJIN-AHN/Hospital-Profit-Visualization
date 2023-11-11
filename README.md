@@ -36,10 +36,8 @@
 * 자세한 내용과 코드는 [GitHub Link](https://github.com/TAEJIN-AHN/Hospital-Profit-Visualization/blob/6d648551ca2cc57fa31cabb69ba15bdf195ea176/data_collection_cleaning.ipynb)를 참고하여 주시기 바랍니다.
 * 주요 전처리 내용은 다음과 같음
   * **기관명 및 주소 정보**
-    ```
     본 프로젝트에서는 동일 지역 내 병원 간 의료이익을 비교하는 지도 시각화를 수행하고자 함
     수정한 주소 정보와 공간산업진흥원의 Geocoder API를 활용, 위도 및 경도 데이터를 추가 수집함
-    ```
     * **동일한 주소의 기관명이 연도별로 다른 경우 최근 기준으로 통일**
       ```
       예) 경상남도 진주시 강남로 79에 위치한 상급종합병원의 이름을 아래와 같이 변경
